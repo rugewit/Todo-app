@@ -2,4 +2,4 @@
 
 Стек: gorilla/mux, postgre sql, htmx
 
-![photo1](https://github.com/rugewit/Todo-app/blob/main/photo_1.jpg)
+![photo1](https://github.com/rugewit/Todo-app/blob/main/photo_1.png)
